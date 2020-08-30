@@ -1,3 +1,5 @@
 #Adding IDE Files to ignored
 *.iml
 .idea/
+#Added out directory to ignored
+out/
