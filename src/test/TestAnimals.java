@@ -17,7 +17,6 @@ public class TestAnimals {
         cat3.setName("Mruczek");
         cat3.kill();
 
-
         Dog dog = new Dog();
         dog.setName("Reksio");
 
